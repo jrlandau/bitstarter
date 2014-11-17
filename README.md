@@ -1,4 +1,4 @@
-# node-js-sample
+# Bitstarter   Joe Landau 11-16-14
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
