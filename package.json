@@ -1,13 +1,13 @@
 {
-  "name": "node-js-sample",
+  "name": "bitstarter",
   "version": "0.1.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Bitstarter example app using Express 4 for Coursera class",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.0.0"
+    "express": "^4.8.x"
   },
   "engines": {
     "node": "0.10.x"
@@ -21,9 +21,6 @@
     "heroku",
     "express"
   ],
-  "author": "Mark Pundsack",
-  "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
-  ],
+  "author": "joe",
   "license": "MIT"
 }
